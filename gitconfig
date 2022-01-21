@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rangom.gilsa@hotmail.com
+	name = rangom gilsa
